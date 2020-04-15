@@ -32,6 +32,6 @@ public class Cat {
 	
 	@Override
 	public String toString() {
-		return "Human [name=" + name + ", age=" + gender + ", weight=" + numberOfSiblings + "]";
+		return "Cat [name=" + name + ", age=" + gender + ", weight=" + numberOfSiblings + "]";
 	}
 }
